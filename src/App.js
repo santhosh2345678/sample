@@ -1,23 +1,22 @@
 import logo from './logo.svg';
 import './App.css';
+// import Navbar from './Components/Navbar';
+// import Home from './Components/Home';
+// import Kumar from './Components/Class';
+// import './Components/style.scss';
+// import { Ass } from './Components/Cycle/Parent';
+// import { Fsss } from './Components/FunctionLifeCycle/Lifeparent';
+import {Roust} from './Components/Reduxtask/Routing';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      {/* <Navbar/>
+      <Home/> */}
+      {/* <kumar/> */}
+    {/* <Ass/> */}
+      {/* <Fsss/> */}
+      <Roust/>
     </div>
   );
 }

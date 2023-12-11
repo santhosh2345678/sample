@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    box-sizing:broder-box;
+}
+.row{
+    display: flex;
+    justify-content: space-evenly; 
+    margin-top: 40px ;
+    padding-bottom: 40px;
+}
+.col-3 a{
+    border:2px solid;
+    text-decoration: none;
+}
+.navbar-container .row1 ul{
+    display:flex;
+    justify-content: space-evenly; 
+}
+.column1 a{
+    text-decoration: none;
+}

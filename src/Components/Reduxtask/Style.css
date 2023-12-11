@@ -1,0 +1,106 @@
+body{
+  background-color: #234567;
+}
+.container{
+    border:5px solid #282c34;
+    background-color:cyan;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    margin-top: 10%;
+  }
+  .Submitbtn{
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin: 10%;
+  border-radius: 5px;
+  }
+  .Submitbtn:hover{
+    background-color: coral;
+  }
+  .Deletebtn{
+    background-color:#ad4367;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50px;
+  }
+  .Deletebtn:hover{
+    background-color: darkolivegreen;
+  }
+  .Editbtn{
+  background-color:#234567;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50px;
+  }
+  .Editbtn:hover{
+    background-color: darkblue;
+  }
+  .logoutbtn{
+    background-color:#ac3456;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50px;
+  }
+  .logoutbtn:hover{
+    background-color: cornflowerblue;
+  }
+table{
+  border: 1px solid black;
+}
+
+.c1{
+  background-color:#ac3456;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50px;
+}
+.c2{
+  background-color:#ac3456;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50px;
+}
